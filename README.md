@@ -1,4 +1,5 @@
 # Coroutines
+Funções suspend (declaradas como suspend fun) são funções que podem ser suspensas sem bloquear a thread. 
 ## Paralelismo (use async):
 ```kotlin
 import kotlinx.coroutines.*
